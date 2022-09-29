@@ -7,7 +7,7 @@ The timed quiz will store top scores to gauge progress compared to others. Each 
 
 ![Project Screenshot](/assets/Screenshot.jpg "Jack's Coding Quiz!")
 
-Visit Project Link: https://jeco1988.github.io/Quiz Challenge/
+Visit Project Link: https://jeco1988.github.io/QuizChallenge/
 
 ## Table of Contents
 
